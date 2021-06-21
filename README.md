@@ -1,1 +1,1 @@
-# daibetes_prediction
+# daibetes_predict
